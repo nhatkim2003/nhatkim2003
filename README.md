@@ -10,7 +10,7 @@
 - 🎓 I’m a final-year student majoring in **Software Engineering**
 - 🚀 I'm currently building AI-integrated web apps using **React**, **ASP.NET Core**, and **MySQL**
 - 🧠 Exploring AI, full-stack development, and productivity tools
-- 📫 Reach me at: **kimnhat2003@gmail.com**
+- 📫 Reach me at: **kimhynhat@gmail.com**
 
 ---
 
@@ -28,7 +28,6 @@
 **Tools & Databases:**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
